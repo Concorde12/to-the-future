@@ -1,0 +1,10 @@
+# Ignore sensitive database credentials
+config.php
+.env
+
+# Ignore user uploaded receipts/proofs
+uploads/
+uploads/*
+
+# Ignore log files
+*.log
